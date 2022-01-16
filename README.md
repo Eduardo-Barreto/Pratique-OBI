@@ -8,6 +8,12 @@
 
 <h3 align="center">🚧 Em construção 🚧</h3>
 
+<p align="center">
+ <a href="#-progresso">Progresso</a> • 
+ <a href="#-rodando">Rodando</a> • 
+ <a href="#-contribuindo">Contribuindo</a>
+</p>
+
 
 ## 🎯 Progresso
 A ideia é manter o repositório enquanto resolvo os desafios, que estão separados por edição aqui
