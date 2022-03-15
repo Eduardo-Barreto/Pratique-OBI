@@ -183,10 +183,9 @@ def testar_gabarito(url: str, path_codigo: str, linhas_saida: int = 1, silent: b
     return taxa_sucesso
 
 
-#taxa_sucesso = testar_gabarito(
-    #url='https://olimpiada.ic.unicamp.br/pratique/p2/2007/f1/mobile/',
-    #path_codigo='./2007/fase1/mobile.py',
-#)
+taxa_sucesso = testar_gabarito(
+    url='https://olimpiada.ic.unicamp.br/pratique/p2/2007/f1/choc/',
+    path_codigo='./2007/fase1/choc.py',
+)
 
-#print(f'Esse código obteve {taxa_sucesso}% de sucesso!')
-print(get_download_url('https://olimpiada.ic.unicamp.br/pratique/p2/2007/f1/choc/'))
+print(f'Esse código obteve {taxa_sucesso}% de sucesso!')
